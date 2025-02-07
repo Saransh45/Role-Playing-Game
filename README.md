@@ -30,6 +30,18 @@ WebGL (for graphics rendering)
 
 LocalStorage (for game progress saving)
 
+#Installation
+
+Clone the repository:
+
+git clone https://github.com/Saransh45/music-player.git
+
+Navigate to the project directory:
+
+cd music-player
+
+Open index.html in a web browser.
+
 #Usage
 
 Create a new character and choose attributes.
